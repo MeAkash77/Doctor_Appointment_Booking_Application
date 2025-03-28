@@ -64,9 +64,7 @@ email : pococare@gmail.com  password : pococare
 
 
 
-# Live Demo Link https://wecareyou.vercel.app/ 
-
-# Backend deployed using RENDER https://pococare1.onrender.com/
+# Live Demo Link https://doctor-appointment-booking-application.vercel.app/ 
 
 
 ## You can also click For VIDEO CONSULTATION which will redirect to another page where you can click Start video button which will eventually trigger nodemailer with the VIDEO ROOM LINK 
