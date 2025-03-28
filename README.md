@@ -99,7 +99,7 @@ Follow the given steps:
 
 ## API end points
 
-api - https://pococare1.onrender.com/
+api - https://doctor-appointment-booking-application.vercel.app/
 
 
 | METHOD | ENDPOINT | DESCRIPTION | STATUS CODE |
