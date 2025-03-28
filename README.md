@@ -83,8 +83,8 @@ If you wish to run this project on your local machine
 
 Follow the given steps:
 
-* Clone our repository https://github.com/DhaanuI/Pococare_assignment
-
+* Clone our repository https://github.com/MeAkash77/Doctor_Appointment_Booking_Application.git
+* 
 * Open our code in VS code
 
 * Then do npm install to require the necessary packages and dependencies
